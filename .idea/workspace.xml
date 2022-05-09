@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98fd967-d063-4da2-8385-5dd895851b14" name="Changes" comment="07.05.22">
+    <list default="true" id="b98fd967-d063-4da2-8385-5dd895851b14" name="Changes" comment="09.05.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651956148733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="09.05.22">
+      <created>1652086756385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652086756385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="07.05.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="07.05.22" />
+    <MESSAGE value="09.05.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="09.05.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
